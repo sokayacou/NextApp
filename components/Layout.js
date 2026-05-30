@@ -20,7 +20,7 @@ export default function Layout({ children }) {
         <title>ESPectso 1000 by ESP</title>
         <meta name="description" content="ESPectso 1000 by ESP" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/NextApp/images/favicon.ico" />
       </Head>
 
       <div className='topBand'>

@@ -26,7 +26,7 @@ export default function Gallery() {
                     <p className={galleryStyles.subTitle}>Perfect for highly motivated individuals</p>
                     <Image 
                         priority
-                        src="/images/solitude.jpg"
+                        src="/NextApp/images/solitude.jpg"
                         width={277}
                         height={381}
                         alt='solitude'
@@ -38,7 +38,7 @@ export default function Gallery() {
                     <p className={galleryStyles.subTitle}>Perfect for you and your partner</p>
                     <Image 
                         priority
-                        src="/images/duo.jpg"
+                        src="/NextApp/images/duo.jpg"
                         width={277}
                         height={381}
                         alt='duo'
@@ -50,7 +50,7 @@ export default function Gallery() {
                     <p className={galleryStyles.subTitle}>Perfect for your entire team</p>
                     <Image 
                         priority
-                        src="/images/teamwork.jpg"
+                        src="/NextApp/images/teamwork.jpg"
                         width={277}
                         height={381}
                         alt='teamwork'

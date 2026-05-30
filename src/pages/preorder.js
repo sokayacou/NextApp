@@ -23,7 +23,7 @@ export default function Preorder() {
                 {/* Template starts */}
                <div>
                     <Image 
-                        src="/images/preorder.jpg"
+                        src="/NextApp/images/preorder.jpg"
                         height={425}
                         width={640}
                         alt='preorder'

@@ -25,7 +25,7 @@ export default function Home() {
           <div className={styles.heroDiv}>
             <Image
               priority
-              src="/images/hero.jpg"
+              src="/NextApp/images/hero.jpg"
               fill
               objet-fit='contain'
               alt="ESPectso 1000"
